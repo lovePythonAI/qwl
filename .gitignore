@@ -1,4 +1,6 @@
 **/.ipynb_checkpoints
 **/.idea
+**/..venv
 *.log
-**/data/
+**/猫/
+**/狗/
