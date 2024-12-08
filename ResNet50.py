@@ -27,4 +27,4 @@ model.fit(x_train, y_train, batch_size=32, epochs=100, validation_data=(x_test, 
 
 # 评估模型
 loss, accuracy = model.evaluate(x_test, y_test)
-print(f'Test accuracy: {accuracy}')
+print(loss, accuracy)
